@@ -245,16 +245,27 @@ HELP DESK TICKETING SYSTEM
 #### References
 
 (2024, April 10). Retrieved from Code Review: https://codereview.stackexchange.com/questions/263171/ticketing-program-using-python-3
+
 (2024, April 10). Retrieved from Python: https://docs.python.org/3/tutorial/errors.html
+
 Loops, M. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/while-loops?module_item_id=72433
+
 Module, I. S. (2024, 10 04). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/if-statements?module_item_id=72427
+
 Scenario, A. (2024, April 10). mywhitecliffe assignment. Retrieved from https://learn.mywhitecliffe.com/courses/1471/assignments/12851
+
 Statements, M. E. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/if-elif-statements?module_item_id=72429
+
 Whitecliffe, M. E. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/more-on-exceptions?module_item_id=72464
+
 Whitecliffe, M. F. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/for-loops?module_item_id=72436
+
 Whitecliffe, M. F. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/functions-with-parameters?module_item_id=72447
+
 Whitecliffe, M. L. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/lists?module_item_id=72437
+
 Whitecliffe, M. R. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/returning-data-from-functions?module_item_id=72449
+
 Whitecliffe, M. W. (2024, April 10). Retrieved from Whitecliffe Canvas: https://learn.mywhitecliffe.com/courses/1471/pages/while-loops?module_item_id=72433
 
 
