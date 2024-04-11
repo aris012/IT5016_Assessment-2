@@ -11,7 +11,7 @@
         ticket_number = 2000
 
 #### Creating ticket user input 
-##### With the function input() and def () and the use of "if" "elif and "else" for the description issue
+##### With the function input() and def () and the use of "if" and "else" for the description issue
 
         def create_ticket(ticket_number):
             staff_id = input("Staff ID: ")
@@ -23,9 +23,6 @@
                 new_password = staff_id[:2] + creator_name[:3]
                 status = "Closed" 
                 response = f"New generated password: {new_password}"
-            elif issue_description.lower() == "My monitor stoppped working":
-                status = "Closed"
-                response = f"The monitor has been replaced"
             else:
                 status = "Open"
                 response = "Not Yet Provided"
