@@ -43,7 +43,7 @@
             return ticket_details
 
 #### Display Ticket Statistics 
-##### Here with the use of lenght function, to count all the ticket created, resolbed and solve.
+##### Here with the use of lenght function, to count all the ticket created, resolved and solve.
 
           def display_ticket_statistics():
               total_tickets_created = len(open_tickets) + len(closed_tickets) + len(reopened_tickets)
