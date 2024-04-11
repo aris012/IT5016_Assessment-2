@@ -57,7 +57,7 @@
               print("Ticket to Solve:", total_tickets_solved)
 
 #### Print ticket lists with use of loop method
-##### With the use of loop for user's input 'for' 'in' statament
+##### With the use of 'for loop' for user's input 'for' 'in' statament to dsiplay all ticket, I also used 'while loop' to allow code execute repeatedly.
 
         def print_tickets(ticket_list):
             for ticket in ticket_list:
@@ -84,7 +84,7 @@
             else:
                 open_tickets.append(ticket)
 
-#### Output of the printing ticket
+#### Output of the printing ticket display statistics.
 ##### Here is code part for printing the output with the use of key=lambda for the ascending of the ticket number, with all the ticket sorted out. 
 
             print(f"Ticket {ticket_number} created successfully!")
